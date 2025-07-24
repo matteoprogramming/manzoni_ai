@@ -1,2 +1,2 @@
-# manzoni_ai
-Manzoni AI project
+# Manzoni AI
+Read the Jupyter Notebook for deatailed information.
