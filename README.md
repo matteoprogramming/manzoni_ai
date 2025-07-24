@@ -1,2 +1,2 @@
 # Manzoni AI
-Read the Jupyter Notebook for deatailed information.
+Read the Jupyter Notebook for detailed information.
